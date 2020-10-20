@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FutWorld</string>
+    <string name="add_tournament">Add Tournament</string>
+    <string name="edit_tournament">Edit Tournament</string>
+    <string name="update_stats">Update Stats</string>
+    <string name="update_information">Update Information</string>
+    <string name="make_announcement">Make Announcement</string>
+    <string name="go">Go!</string>
+
+</resources>
